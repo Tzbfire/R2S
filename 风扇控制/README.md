@@ -1,3 +1,8 @@
+## 来源
+
+本项目的部分内容参考了 FriendlyARM 的 FriendlyWRT 项目，详情请见 [FriendlyWRT GitHub 仓库](https://github.com/friendlyarm/friendlywrt)。
+
+
 # 风扇控制脚本
 
 本项目提供了一组脚本，用于控制 FriendlyWRT 系统上的风扇。
