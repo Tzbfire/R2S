@@ -1,1 +1,23 @@
-anz
+# 风扇控制脚本
+
+本项目提供了一组脚本，用于控制 FriendlyWRT 系统上的风扇。
+
+## 系统要求
+- R2S（仅在R2S测试）
+- FriendlyWRT
+- Bash shell
+
+## 安装说明
+
+要安装和配置风扇控制脚本，请执行以下步骤：
+
+1. 下载并运行安装脚本：
+
+   ```sh
+   wget -O setup_pwm_fan.sh https://raw.githubusercontent.com/Tzbfire/R2S/main/%E9%A3%8E%E6%89%87%E6%8E%A7%E5%88%B6/setup_pwm_fan.sh && chmod +x setup_pwm_fan.sh && ./setup_pwm_fan.sh
+
+1. 或者使用 curl：
+
+   ```sh
+   curl -o setup_pwm_fan.sh https://raw.githubusercontent.com/Tzbfire/R2S/main/%E9%A3%8E%E6%89%87%E6%8E%A7%E5%88%B6/setup_pwm_fan.sh && chmod +x setup_pwm_fan.sh && ./setup_pwm_fan.sh
+
