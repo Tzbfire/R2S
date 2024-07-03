@@ -5,7 +5,7 @@
 
 - 易有云文件管理
 
-官网：https://app.linkease.com/
+官网：https://app.linkease.com
 
 - 一键搭建命令：
 
