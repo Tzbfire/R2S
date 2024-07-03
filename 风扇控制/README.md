@@ -21,6 +21,8 @@
    wget -O setup_pwm_fan.sh https://raw.githubusercontent.com/Tzbfire/R2S/main/%E9%A3%8E%E6%89%87%E6%8E%A7%E5%88%B6/setup_pwm_fan.sh && chmod +x setup_pwm_fan.sh && ./setup_pwm_fan.sh
 
 2. 或者使用 curl：
+
+   ```sh
    curl -o setup_pwm_fan.sh https://raw.githubusercontent.com/Tzbfire/R2S/main/%E9%A3%8E%E6%89%87%E6%8E%A7%E5%88%B6/setup_pwm_fan.sh && chmod +x setup_pwm_fan.sh && ./setup_pwm_fan.sh
 
 ## 使用说明
