@@ -29,10 +29,10 @@
 
 安装脚本将会：
 
-1.下载 start-rk3328-pwm-fan.sh 到 /usr/bin/ 目录。
+- 下载 start-rk3328-pwm-fan.sh 到 /usr/bin/ 目录。
 
-2.下载 fa-rk3328-pwmfan 到 /etc/init.d/ 目录。
+- 下载 fa-rk3328-pwmfan 到 /etc/init.d/ 目录。
 
-3.设置脚本的可执行权限。
+- 设置脚本的可执行权限。
 
-4.启用并启动风扇控制脚本。
+- 启用并启动风扇控制脚本。
